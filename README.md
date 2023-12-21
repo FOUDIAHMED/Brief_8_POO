@@ -1,1 +1,2 @@
-# Brief_8_POO
+# brief
+Boutique en ligne pour les produits electroniques et robotiques.
